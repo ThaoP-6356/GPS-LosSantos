@@ -8,7 +8,7 @@ Avant toute manipulation, il est fortement conseillé d'éteindre totalement le 
 
 ## Liens
 
-[GPS Custom v2.0](https://pages.github.com/)
+[GPS Custom v2.0](https://pages.github.com/)  
 [GPS Custom v1.0](https://pages.github.com/)  
 
 ## Contact
